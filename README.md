@@ -2,13 +2,13 @@
 
 Este projeto é um sistema de vendas desenvolvido em VBA no Excel para uma empresa de confecção voltada para roupas religiosas de umbanda, a Guardiã das Vestes.
 
-#Funcionalidades
+# Funcionalidades
 
 1. Seleção de cliente
 2. Adição de produtos (vestidos) e quantidades
 3. Cálculo do preço final com base em uma porcentagem de lucro definida pelo usuário
 
-#Como Usar
+# Como Usar
 
 1. Abra o arquivo do Excel com o código VBA.
 2. Na planilha "Clientes", adicione os nomes dos clientes que deseja incluir no sistema.
@@ -20,20 +20,20 @@ Este projeto é um sistema de vendas desenvolvido em VBA no Excel para uma empre
 8. Insira a porcentagem de lucro desejada no campo "Lucro".
 9. Clique no botão "Calcular" para calcular o preço final da venda.
 
-#Melhorias Futuras
+# Melhorias Futuras
 
 - Adição de um campo de lucro adicional para mão de obra
 - Melhoria na interface do usuário
 - Adição de validações para garantir que todos os campos obrigatórios sejam preenchidos antes de calcular o preço final.
 - Adicionar a opção de emitir uma nota fiscal personalizada e automatizar o envio por e-mail ou gerar um PDF
 
-#Contribuindo
+# Contribuindo
 Contribuições são sempre bem-vindas. Se você quiser contribuir para o projeto, abra uma issue ou envie um pull request.
 
-#Licença
+# Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-#Contato
+# Contato
 
 Para mais informações sobre a Guardiã das Vestes, acesse o perfil no Instagram @guardia_das_vestes.
