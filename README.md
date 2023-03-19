@@ -1,4 +1,4 @@
-#Sistema de Vendas de Roupas Religiosas de Umbanda
+# Sistema de Vendas de Roupas Religiosas de Umbanda
 
 Este projeto é um sistema de vendas desenvolvido em VBA no Excel para uma empresa de confecção voltada para roupas religiosas de umbanda, a Guardiã das Vestes.
 
